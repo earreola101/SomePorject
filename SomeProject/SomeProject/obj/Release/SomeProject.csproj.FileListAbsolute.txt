@@ -1,0 +1,4 @@
+C:\SomePorject\SomeProject\SomeProject\bin\Release\SomeProject.exe
+C:\SomePorject\SomeProject\SomeProject\bin\Release\SomeProject.pdb
+C:\SomePorject\SomeProject\SomeProject\obj\Release\SomeProject.exe
+C:\SomePorject\SomeProject\SomeProject\obj\Release\SomeProject.pdb
