@@ -9,6 +9,9 @@ namespace SomeProject
     {
         static void Main(string[] args)
         {
+
+
+
             Console.WriteLine("test");
         }
     }
